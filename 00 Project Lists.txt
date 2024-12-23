@@ -1,0 +1,29 @@
+# pyinstaller main.py --onefile
+
+01.Calculator Program
+02.Weight Convertor Program
+03.Temperature Convertor Program
+04.Email Slicer Program
+05.Compound Intrest Calculator Program
+06.Countdown Timer Program
+07.Shopping Cart Program
+08.Quiz Game
+09.Concession Stand Program
+10.Number Guessing Game
+11.Rock-Paper-Scissors Game
+12.Dice Roller Program
+13.Encryption and Decryption Program
+14.Credit Card Validation Program
+15.Banking Program
+15.1.Upgraded Banking Program
+16.Slot Machine Program
+17.Hangman Game
+18.Digital Clock Program using PyQt5
+19.Stop Watch Program PyQt5
+20.Weather App
+21.Password Manager using AES-256 & RSA-4096 Dual Encryption.
+22.QR Code Generator
+23.Shortest Path Finder
+24.Aim Trainer 
+25.Password generator
+26.Dictionary App
